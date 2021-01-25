@@ -49,6 +49,7 @@ index called stage !!
 track changes of files !!
 switch new branch && simple!!
 test fast forward bug issue!!
+git stash !!
 
 int main(void){
 	Solution solve;

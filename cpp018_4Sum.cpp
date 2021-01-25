@@ -44,6 +44,7 @@ public:
 };
 
 add for test !!
+add GPL !!
 
 int main(void){
 	Solution solve;

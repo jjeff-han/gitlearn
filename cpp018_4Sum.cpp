@@ -47,7 +47,7 @@ add for test !!
 add GPL !!
 index called stage !!
 track changes of files !!
-switch new branch !!
+switch new branch && simple!!
 
 
 int main(void){

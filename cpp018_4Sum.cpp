@@ -45,6 +45,8 @@ public:
 
 add for test !!
 add GPL !!
+index called stage !!
+
 
 int main(void){
 	Solution solve;

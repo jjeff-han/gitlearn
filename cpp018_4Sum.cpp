@@ -48,7 +48,7 @@ add GPL !!
 index called stage !!
 track changes of files !!
 switch new branch && simple!!
-
+test fast forward !!
 
 int main(void){
 	Solution solve;

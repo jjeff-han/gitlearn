@@ -46,7 +46,8 @@ public:
 add for test !!
 add GPL !!
 index called stage !!
-track changes !!
+track changes of files !!
+
 
 
 int main(void){
